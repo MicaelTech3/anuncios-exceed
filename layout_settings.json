@@ -1,0 +1,10 @@
+{
+    "show_create_btn": false,
+    "show_media_btn": true,
+    "show_play_btn": false,
+    "playlist_width": 250,
+    "font_size": 10,
+    "bg_color": "#222222",
+    "playlist_bg": "#222222",
+    "media_bg": "#333333"
+}
